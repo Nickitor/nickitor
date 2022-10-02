@@ -2,4 +2,5 @@
 [![Head Hunter Badge](https://img.shields.io/badge/HH-Profile-informational?7857057827?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://spb.hh.ru/resume/209724f2ff0909bbc30039ed1f683454673268)
 ### Hi there 👋
 I am a mobile developer. Currently working with Android and Kotlin.
-You can contact me here nikitazamyslov@mail.ru and here t.me/nickitandev
+
+You can contact me here nikitazamyslov@mail.ru and here http://t.me/nickitandev.
